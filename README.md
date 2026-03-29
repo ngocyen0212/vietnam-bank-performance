@@ -1,4 +1,4 @@
-# Vietnam Bank Performance Analysis
+# Vietnam Insurance Performance Analysis
 
 ## 📌 Overview
 This project analyzes the performance of insurance companies in Vietnam using a two-stage approach.
@@ -9,7 +9,7 @@ This project analyzes the performance of insurance companies in Vietnam using a 
 
 ## 📊 Data
 - Panel data from Vietnamese companies
-- Period: 2019–2023
+- Period: 2016-2022
 
 ## 🛠 Tools
 - R
