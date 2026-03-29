@@ -49,10 +49,10 @@ Efficiency score (Range: 0 to 1).
 - Inflation Rate: Annual Consumer Price Index change (%).
 
 
-##  Data Availability
+## 🔒 Data Availability
 Due to confidentiality and data source restrictions, the full dataset is not publicly available.
 
-##  Tools
+## 🛠 Tools
 - Data processing: Excel
 - Analysis: R
 
